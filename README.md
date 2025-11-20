@@ -3,78 +3,113 @@
 # PedQuEST  
 **Pediatric Quantitative EEG Strategic Taskforce**
 
-PedQuEST is an international consortium dedicated to advancing **brain-directed care of critically ill children using quantitative EEG (qEEG)**. We bring together experts from leading pediatric institutions to develop scalable data infrastructure, conduct multicenter research, and support education and implementation of qEEG at the bedside.
+PedQuEST is an international multidisciplinary consortium dedicated to advancing brain-directed care of critically ill children using **quantitative EEG (qEEG)**. Our mission is to develop scalable infrastructure, knowledge, and research implementation pathways that enable high-quality qEEG studies and rapid translation to bedside clinical care.
 
 ---
 
-## Mission
-
-- Advance clinical use of qEEG in neurocritical care  
-- Enable multicenter research using standardized data pipelines  
-- Support education, collaboration, and mentorship  
-- Promote equitable access to qEEG tools and data  
-- Democratize data to accelerate discovery and improve outcomes
+> 🧡 **Proudly supported by the Pediatric Epilepsy Research Foundation (PERF)**  
+> <https://www.pediatricepilepsyresearchfoundation.org>
 
 ---
 
-## What We Do
+## 🚀 Mission
 
-- Developed the **largest multicenter pediatric ICU EEG research platform**, using:
-  - Automated EEG extraction and deidentification pipeline (Persyst + Python)  
-  - **Cloud-based Pennsieve data platform (AWS)** for secure multicenter analytics  
-  - REDCap-integrated clinical data mapping and quality-controlled uploads
-
-- Support studies including:
-  - **Post–cardiac arrest qEEG prognostication**
-  - **Early biomarker detection in NORSE/FIRES**
-  - **Automated neonatal seizure detection**
-  - Integration of **COIN algorithm** into multimodal platforms
-
-- Conduct annual scientific meetings and educational programs  
-- Support investigator-initiated projects through proposal review and mentorship
+- Advance qEEG use for clinical neuromonitoring in pediatric critical care  
+- Identify clinically meaningful qEEG biomarkers  
+- Standardize reporting and analytic pipelines  
+- Build scalable infrastructure to support multicenter research  
+- Deliver education across institutions and training levels  
+- Promote collaboration, equity, and technology-driven improvement in brain care
 
 ---
 
-## Consortium Snapshot
+## 🔬 Research Arm
 
-- **66+ members**
-- **24 institutions**
-- **4 countries**
-- Co-Chairs: *Giulia M. Benedetti, MD* & *Craig A. Press, MD, PhD*  
-- Scientific Committee and Advisory Board comprised of national experts
+PedQuEST developed the first **multicenter pediatric/neonatal ICU EEG research platform**, enabling secure waveform data sharing aligned with clinical data.
 
----
+Key Innovation Areas:
 
-## Contact & Participation
+- **Automated EEG extraction + deidentification pipeline** (Persyst + Python)
+- **Cloud-based structured analytics platform (Pennsieve via Wagenaar Lab)**  
+- **REDCap-linked clinical data alignment (timestamp harmonization via days from birth)**
+- **Central and site-based data processing workflows**
 
-| Inquiry Type | Contact |
-|--------------|---------|
-| Co-Directors | **Craig Press** – pressca@chop.edu |
-|  | **Giulia Benedetti** – gbenedet@med.umich.edu |
-| Meetings & listserv | **Ajay Thomas** – ajay.thomas@bcm.edu |
+### Core Pilot Research Aims
 
-To explore collaboration or interest in joining PedQuEST, please reach out via the contacts above.
+| Aim | Description |
+|-----|-------------|
+| **1** | Establish a high-quality centralized EEG database to support multicenter research. With a Normative EEG Cohort |
+| **2** | Identify early qEEG and clinical biomarkers of outcomes post–cardiac arrest. |
+| **3** | Detect early EEG biomarkers of rare catastrophic seizure syndromes (NORSE/FIRES). |
 
----
-
-## Repository Purpose
-
-This GitHub repository contains:
-- Documentation of PedQuEST’s mission, structure, and initiatives  
-- Public-facing infographics, posters, and organizational materials  
-- Educational content related to qEEG and pediatric neurocritical care research  
-
-⚠ **No patient data, PHI, or proprietary analysis code is included.**
+🔹 Infrastructure supporting NIH K-awards, PERF-funded studies, and additional grant submissions in progress. 
 
 ---
 
-## Acknowledgements
+## 📚 Education Initiative
 
-PedQuEST is supported by:
-- **Pediatric Epilepsy Research Foundation (PERF)**
-- Infrastructure partnership with the **Wagenaar Lab and Pennsieve Platform**
-- Contributions from participating institutions and data science collaborators
+PedQuEST actively develops a **standardized qEEG education curriculum**, case-based training, and bedside decision-support teaching modules.
+
+**Education Leadership**  
+- *Laura Caligiuri, MD* — caligiuril@chop.edu  
+- *Anuj Jayakar, MD* — anuj.jayakar@nicklaushealth.org  
+
+This curriculum is designed to support trainees, EEG technicians, bedside intensivists, and neurology staff across institutions, with ongoing outcome tracking and shared access across consortium centers.
 
 ---
 
-### *Advancing brain care together through data, innovation, and collaboration.*
+## 🏛 Leadership
+
+### **Co-Directors**
+- **Craig A. Press** — pressca@chop.edu  
+- **Giulia M. Benedetti** — gbenedet@med.umich.edu  
+
+### **Scientific Committee**
+Chair- Dana B. Harrar 
+Raquel Farias-Moeller
+Ajay Thomas
+Anuj Jayakar
+Rishi Ganesan
+Joost Wagenaar
+
+
+### **Senior Scientific Advisors**
+Cecil Hahn
+Nicholas S. Abend  
+James Riviello
+
+---
+
+## 📊 Consortium Overview
+
+- **66+ members**  
+- **24 institutions**  
+- **4 countries / 3 continents**
+
+Expertise across pediatric neurocritical care, epilepsy, biomedical engineering, AI, data science, and multimodal neuromonitoring.
+
+---
+
+## 📁 Repository Contents
+
+Includes:
+- Organizational overview and consortium mission  
+- Research infrastructure diagrams and public-facing materials  
+- Education workflow outline and consortium-wide presentations  
+- Posters and infographics highlighted at national meetings
+
+🚫 **No PHI, patient data, or proprietary code is hosted in this repository.**
+
+---
+
+## 📩 Collaboration
+
+For inquiries regarding PedQuEST membership, collaboration, or project development, contact:
+
+**Co-Directors**  
+📧 *pressca@chop.edu*  
+📧 *gbenedet@med.umich.edu*
+
+---
+
+### *“Advancing brain care through data, innovation, and collaboration.”*
